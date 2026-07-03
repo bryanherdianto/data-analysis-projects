@@ -1,1 +1,2 @@
-# data-analysis-mini-projects
+# Data Analysis Projects
+
