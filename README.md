@@ -10,7 +10,6 @@ data-analysis-projects/
 ├── brazil-forest-fire/
 ├── cars-dataset/
 ├── covid19/
-├── flood-analysis/
 ├── gender-analysis/
 ├── london-housing/
 ├── nobel-winners/
@@ -34,7 +33,7 @@ data-analysis-projects/
 
 ### Exploratory Data Analysis
 
-Most projects explore a dataset through a `notebook.ipynb`; `flood-analysis` holds a GIS shapefile instead.
+Most projects explore a dataset through a `notebook.ipynb`.
 
 | Project                                                              | Dataset                 | Focus                                           |
 | -------------------------------------------------------------------- | ----------------------- | ----------------------------------------------- |
