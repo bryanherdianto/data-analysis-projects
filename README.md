@@ -36,25 +36,24 @@ data-analysis-projects/
 
 Most projects explore a dataset through a `notebook.ipynb`; `flood-analysis` holds a GIS shapefile instead.
 
-| Project                                                              | Dataset                        | Focus                                           |
-| -------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- |
-| [airlines](airlines)                                                 | airlines_final.csv             | Airline operations analysis                     |
-| [brazil-forest-fire](brazil-forest-fire)                             | amazon.csv                     | Brazilian Amazon forest fire trends             |
-| [cars-dataset](cars-dataset)                                         | cars-dataset.csv               | Used car dataset exploration                    |
-| [covid19](covid19)                                                   | covid19_data.csv               | COVID-19 case trends                            |
-| [flood-analysis](flood-analysis)                                     | parameter_kerawanan_banjir.shp | Flood susceptibility mapping (GIS)              |
-| [gender-analysis](gender-analysis)                                   | gender.csv                     | Gender-based demographic analysis               |
-| [london-housing](london-housing)                                     | housing-data.csv               | London housing market trends                    |
-| [nobel-winners](nobel-winners)                                       | nobel.csv                      | Nobel Prize laureates analysis                  |
-| [police-dataset](police-dataset)                                     | police-dataset.csv             | Police stop data analysis                       |
-| [ride-sharing](ride-sharing)                                         | ride-sharing-new.csv           | Bicycle ride-sharing patterns                   |
-| [titanic](titanic)                                                   | titanic_dataset.csv            | Titanic passenger survival                      |
-| [udemy-courses](udemy-courses)                                       | udemy-courses.csv              | Udemy course catalog analysis                   |
-| [weather](weather)                                                   | weather.csv                    | Weather conditions analysis                     |
-| [demographic-data-analyzer](demographic-data-analyzer)               | adult.data.csv                 | Demographic analysis of census-style data       |
-| [medical-data-visualizer](medical-data-visualizer)                   | medical_examination.csv        | Medical examination data visualization          |
-| [page-view-time-series-calculator](page-view-time-series-calculator) | fcc-forum-pageviews.csv        | Forum page-view time series visualization       |
-| [sea-level-predictor](sea-level-predictor)                           | epa-sea-level.csv              | Sea level rise prediction via linear regression |
+| Project                                                              | Dataset                 | Focus                                           |
+| -------------------------------------------------------------------- | ----------------------- | ----------------------------------------------- |
+| [airlines](airlines)                                                 | airlines_final.csv      | Airline operations analysis                     |
+| [brazil-forest-fire](brazil-forest-fire)                             | amazon.csv              | Brazilian Amazon forest fire trends             |
+| [cars-dataset](cars-dataset)                                         | cars-dataset.csv        | Used car dataset exploration                    |
+| [covid19](covid19)                                                   | covid19_data.csv        | COVID-19 case trends                            |
+| [gender-analysis](gender-analysis)                                   | gender.csv              | Gender-based demographic analysis               |
+| [london-housing](london-housing)                                     | housing-data.csv        | London housing market trends                    |
+| [nobel-winners](nobel-winners)                                       | nobel.csv               | Nobel Prize laureates analysis                  |
+| [police-dataset](police-dataset)                                     | police-dataset.csv      | Police stop data analysis                       |
+| [ride-sharing](ride-sharing)                                         | ride-sharing-new.csv    | Bicycle ride-sharing patterns                   |
+| [titanic](titanic)                                                   | titanic_dataset.csv     | Titanic passenger survival                      |
+| [udemy-courses](udemy-courses)                                       | udemy-courses.csv       | Udemy course catalog analysis                   |
+| [weather](weather)                                                   | weather.csv             | Weather conditions analysis                     |
+| [demographic-data-analyzer](demographic-data-analyzer)               | adult.data.csv          | Demographic analysis of census-style data       |
+| [medical-data-visualizer](medical-data-visualizer)                   | medical_examination.csv | Medical examination data visualization          |
+| [page-view-time-series-calculator](page-view-time-series-calculator) | fcc-forum-pageviews.csv | Forum page-view time series visualization       |
+| [sea-level-predictor](sea-level-predictor)                           | epa-sea-level.csv       | Sea level rise prediction via linear regression |
 
 ### SQL
 
